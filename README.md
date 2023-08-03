@@ -1,6 +1,9 @@
 # datav-report-dev
 
+[Preview](https://amsuperking.github.io/datav-report-dev/#/)
+
 ## Project setup
+
 ```
 yarn install
 ```
